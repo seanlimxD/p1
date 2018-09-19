@@ -1,0 +1,34 @@
+body {
+	background-color: #FFD700;
+}
+
+h1 {
+	text-align: center;
+	font-size: 50px;
+}
+
+img {
+	border-style: solid;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+em {
+	font-size: 50px;
+}
+
+#intro {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	width:35%;
+}
+
+#quote {
+	text-align: center;
+	font-size: 30px;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
